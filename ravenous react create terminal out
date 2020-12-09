@@ -1,0 +1,134 @@
+Last login: Wed Dec  2 14:01:04 on ttys000
+danielkrizak@Daniels-MacBook-Pro WebProjects % create-react-app ravenous
+zsh: command not found: create-react-app
+danielkrizak@Daniels-MacBook-Pro WebProjects % npx create-react-app ravenous 
+
+┌─────────────────────────────────────────────────────────────────┐
+│                     npm update check failed                     │
+│               Try running with sudo or get access               │
+│              to the local update config store via               │
+│ sudo chown -R $USER:$(id -gn $USER) /Users/danielkrizak/.config │
+└─────────────────────────────────────────────────────────────────┘
+npx: installed 67 in 7.892s
+
+Creating a new React app in /Users/danielkrizak/Desktop/WebProjects/ravenous.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+> fsevents@1.2.13 install /Users/danielkrizak/Desktop/WebProjects/ravenous/node_modules/watchpack-chokidar2/node_modules/fsevents
+> node install.js
+
+  SOLINK_MODULE(target) Release/.node
+  CXX(target) Release/obj.target/fse/fsevents.o
+  SOLINK_MODULE(target) Release/fse.node
+
+> fsevents@1.2.13 install /Users/danielkrizak/Desktop/WebProjects/ravenous/node_modules/webpack-dev-server/node_modules/fsevents
+> node install.js
+
+  SOLINK_MODULE(target) Release/.node
+  CXX(target) Release/obj.target/fse/fsevents.o
+  SOLINK_MODULE(target) Release/fse.node
+
+> core-js@2.6.12 postinstall /Users/danielkrizak/Desktop/WebProjects/ravenous/node_modules/babel-runtime/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.8.0 postinstall /Users/danielkrizak/Desktop/WebProjects/ravenous/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.8.0 postinstall /Users/danielkrizak/Desktop/WebProjects/ravenous/node_modules/core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> ejs@2.7.4 postinstall /Users/danielkrizak/Desktop/WebProjects/ravenous/node_modules/ejs
+> node ./postinstall.js
+
++ cra-template@1.1.1
++ react-dom@17.0.1
++ react-scripts@4.0.1
++ react@17.0.1
+added 1914 packages from 732 contributors and audited 1914 packages in 140.98s
+
+120 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+┌─────────────────────────────────────────────────────────────────┐
+│                     npm update check failed                     │
+│               Try running with sudo or get access               │
+│              to the local update config store via               │
+│ sudo chown -R $USER:$(id -gn $USER) /Users/danielkrizak/.config │
+└─────────────────────────────────────────────────────────────────┘
+
+Initialized a git repository.
+
+Installing template dependencies using npm...
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
++ web-vitals@0.2.4
++ @testing-library/jest-dom@5.11.6
++ @testing-library/react@11.2.2
++ @testing-library/user-event@12.3.0
+added 29 packages from 77 contributors and audited 1943 packages in 171.548s
+
+120 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+┌─────────────────────────────────────────────────────────────────┐
+│                     npm update check failed                     │
+│               Try running with sudo or get access               │
+│              to the local update config store via               │
+│ sudo chown -R $USER:$(id -gn $USER) /Users/danielkrizak/.config │
+└─────────────────────────────────────────────────────────────────┘
+Removing template package using npm...
+
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dependencies yourself.
+
+removed 1 package and audited 1942 packages in 11.409s
+
+120 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+┌─────────────────────────────────────────────────────────────────┐
+│                     npm update check failed                     │
+│               Try running with sudo or get access               │
+│              to the local update config store via               │
+│ sudo chown -R $USER:$(id -gn $USER) /Users/danielkrizak/.config │
+└─────────────────────────────────────────────────────────────────┘
+
+Created git commit.
+
+Success! Created ravenous at /Users/danielkrizak/Desktop/WebProjects/ravenous
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd ravenous
+  npm start
+
+Happy hacking!
+danielkrizak@Daniels-MacBook-Pro WebProjects % 
